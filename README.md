@@ -1,6 +1,4 @@
-# regex-tutorial
-
-# Title (replace with your title)
+# Title REGEX-TUTORIAL
 
 This is a tutorial that will walk you through Regular Expressions otherwise know as REGEX
 
